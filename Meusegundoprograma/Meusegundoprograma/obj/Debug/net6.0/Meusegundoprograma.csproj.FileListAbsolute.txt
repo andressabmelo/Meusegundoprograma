@@ -1,0 +1,15 @@
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/Meusegundoprograma
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/Meusegundoprograma.deps.json
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/Meusegundoprograma.runtimeconfig.json
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/Meusegundoprograma.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/ref/Meusegundoprograma.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/Meusegundoprograma.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.csproj.AssemblyReference.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.AssemblyInfoInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.AssemblyInfo.cs
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.csproj.CoreCompileInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/ref/Meusegundoprograma.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.genruntimeconfig.cache
