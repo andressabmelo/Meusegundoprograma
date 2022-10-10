@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Meusegundoprograma/1.0.0": {
+        "dependencies": {
+          "BLL": "1.0.0"
+        },
         "runtime": {
           "Meusegundoprograma.dll": {}
+        }
+      },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "DTO": "1.0.0"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        }
+      },
+      "DTO/1.0.0": {
+        "runtime": {
+          "DTO.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Meusegundoprograma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

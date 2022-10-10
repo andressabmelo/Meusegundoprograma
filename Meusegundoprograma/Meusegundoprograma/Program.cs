@@ -6,13 +6,19 @@ namespace Meusegundoprograma
     {
         public static void Main()
         {
-            var execucao = new ExecucaoBLL();
+            var controller=new ExecutaCTRL();
+            controller.Validarlogin();
+
+
+
+
+           /* var execucao = new ExecucaoBLL();
             execucao.Adicionarumdiahoje();
             execucao.Adicionarumdiamesquevem();
             execucao.Adicionarumdiaanoquevem();
             execucao.Andressanaarea("Oi");
             execucao.Numeros(17);
-            execucao.Numeros(-17);
+            execucao.Numeros(-17);*/
         }
     }
 }

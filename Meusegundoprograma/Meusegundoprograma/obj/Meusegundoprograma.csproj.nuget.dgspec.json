@@ -4,6 +4,114 @@
     "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma.csproj": {}
   },
   "projects": {
+    "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/BLL.csproj",
+        "packagesPath": "/home/andressa/.nuget/packages/",
+        "outputPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andressa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/DTO.csproj": {
+                "projectPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/DTO.csproj",
+        "packagesPath": "/home/andressa/.nuget/packages/",
+        "outputPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andressa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +133,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/BLL.csproj": {
+                "projectPath": "/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/BLL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

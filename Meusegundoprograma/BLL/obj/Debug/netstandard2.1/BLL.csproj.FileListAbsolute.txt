@@ -1,0 +1,13 @@
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/bin/Debug/netstandard2.1/BLL.deps.json
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/bin/Debug/netstandard2.1/BLL.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/bin/Debug/netstandard2.1/BLL.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/bin/Debug/netstandard2.1/DTO.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/bin/Debug/netstandard2.1/DTO.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.csproj.AssemblyReference.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfoInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.AssemblyInfo.cs
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.csproj.CoreCompileInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.csproj.CopyComplete
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/BLL/obj/Debug/netstandard2.1/BLL.pdb

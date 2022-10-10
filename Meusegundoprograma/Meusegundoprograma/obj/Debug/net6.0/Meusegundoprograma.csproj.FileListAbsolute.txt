@@ -13,3 +13,8 @@
 /home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/ref/Meusegundoprograma.dll
 /home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.pdb
 /home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.genruntimeconfig.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/BLL.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/DTO.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/BLL.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/bin/Debug/net6.0/DTO.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/Meusegundoprograma/obj/Debug/net6.0/Meusegundoprograma.csproj.CopyComplete

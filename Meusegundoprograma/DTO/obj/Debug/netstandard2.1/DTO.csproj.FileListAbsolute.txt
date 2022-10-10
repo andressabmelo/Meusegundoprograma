@@ -1,0 +1,10 @@
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/bin/Debug/netstandard2.1/DTO.deps.json
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/bin/Debug/netstandard2.1/DTO.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/bin/Debug/netstandard2.1/DTO.pdb
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.csproj.AssemblyReference.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.AssemblyInfoInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.AssemblyInfo.cs
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.csproj.CoreCompileInputs.cache
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.dll
+/home/andressa/Projetos/Meusegundoprograma/Meusegundoprograma/DTO/obj/Debug/netstandard2.1/DTO.pdb
