@@ -10,8 +10,11 @@ namespace Meusegundoprograma
     public class ExecutaCTRL
     {
         public void Validarlogin(){
+            Console.WriteLine("Digite seu usuário por favor");
             var login = Console.ReadLine();
+            Console.WriteLine("Digite sua senha por favor");
             var senha = Console.ReadLine();
+
 
             var logindto = new LoginDTO();
             logindto.Senha=senha;

@@ -1,0 +1,3 @@
+Controller recebe e encaminha as informações e respostas 
+DTO é um envelope ele guarda as coisas
+BLL processa a informação e aplica a regra
