@@ -1,13 +1,19 @@
 ﻿using System;
-
+using BLL.Interface;
+using BLL;
 namespace Meusegundoprograma
 {
     public class Program
     {
         public static void Main()
         {
-            var controller=new ExecutaCTRL();
-            controller.Validarlogin();
+            /*var controller=new ExecutaCTRL();
+            controller.Validarlogin();*/
+
+            var controller =new ExecutamusicaCTRL();
+            var musica =new LouvorBLL();
+            controller.Executarmusica(musica);
+            controller.Executarautores(musica);
 
 
 
