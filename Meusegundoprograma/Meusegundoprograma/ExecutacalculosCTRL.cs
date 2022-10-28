@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BLL.Interface;
+using BLL;
 
 namespace Meusegundoprograma
 {
@@ -10,11 +11,11 @@ namespace Meusegundoprograma
     {
         public void Executarcalculo(ICalculadoraBLL calculadora){
             Console.WriteLine("Digite dois números por favor");
-            Console.ReadLine();
-            Console.WriteLine("A adição dos números é: número+número ");
-            Console.WriteLine("A subtração dos números é: ");
-            Console.WriteLine("A multiplicação dos números é: ");
-            Console.WriteLine("A divisão dos números é: ");
+            var valor1 = Convert.ToInt32( Console.ReadLine());
+            var valor2 = Convert.ToInt32( Console.ReadLine());
+            Console.WriteLine("O resultado da sua conta é:" + calculadora.Calcular(valor1,valor2));
+
+
         }
     }
 }

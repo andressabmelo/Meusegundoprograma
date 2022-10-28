@@ -4,13 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using BLL.Interface;
 
-
 namespace BLL
 {
-    public class AdicaoBLL : ICalculadoraBLL
+    public class DivisaoBLL : ICalculadoraBLL
     {
         public int Calcular(int valor1,int valor2){
-            var resultado=valor1 + valor2;
+            var resultado=valor1 / valor2;
             return resultado;
         }
     }

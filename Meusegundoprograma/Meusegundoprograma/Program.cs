@@ -8,6 +8,7 @@ namespace Meusegundoprograma
         public static void Main()
         {
             var controller=new ExecutacalculosCTRL();
+            controller.Executarcalculo(new AdicaoBLL());
 
 
 
