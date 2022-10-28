@@ -7,13 +7,18 @@ namespace Meusegundoprograma
     {
         public static void Main()
         {
+            var controller=new ExecutacalculosCTRL();
+
+
+
+
             /*var controller=new ExecutaCTRL();
             controller.Validarlogin();*/
 
-            var controller =new ExecutamusicaCTRL();
+            /*var controller =new ExecutamusicaCTRL();
             var musica =new LouvorBLL();
             controller.Executarmusica(musica);
-            controller.Executarautores(musica);
+            controller.Executarautores(musica);*/
 
 
 

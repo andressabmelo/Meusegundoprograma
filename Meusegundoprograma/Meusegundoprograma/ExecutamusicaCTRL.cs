@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using BLL.Interface;
 namespace Meusegundoprograma
 {
-    public class ExecutamusicaCTRL
+    /*public class ExecutamusicaCTRL
     {
         public void Executarmusica(IMusicaBLL musica){
             Console.WriteLine("Você está ouvindo a rádio Beti!");
@@ -16,5 +16,5 @@ namespace Meusegundoprograma
             Console.WriteLine("Esta música do autor " + album.ObterAutor());
             Console.WriteLine("Lançada em " + album.ObterDataLancamento());
         }
-    }
+    }*/
 }

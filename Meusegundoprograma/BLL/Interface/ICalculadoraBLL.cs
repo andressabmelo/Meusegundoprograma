@@ -7,6 +7,7 @@ namespace BLL.Interface
 {
     public interface ICalculadoraBLL
     {
-       string Calcular (); 
+         string Calcular();
+         string Somar();
     }
 }
